@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "FlabbyBird2",
+			"path": "."
+		},
+		{
+			"name": "FlappyBird",
+			"path": "../../../Documents/GitHub/FlappyBird"
+		}
+	],
+	"settings": {}
+}
